@@ -16,11 +16,7 @@ export const HeroSection = () => {
                     Software Developer, Web Designer
             
                 </p>
-                <div className="opacity-0 animate-fade-in delay-1000"> 
-                    <a href="#projects" className="cosmic-button">
-                        View My Work
-                    </a>
-                </div>
+                
             </div>
         </div>
 
